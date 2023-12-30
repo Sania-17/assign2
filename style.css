@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container-fluid {
+  margin-top: 50px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.text-center h2 {
+  margin-top: 40px;
+}
+
+.menu-card {
+  padding: 20px;
+  margin-top: 20px;
+  text-align: center;
+  border: 1px solid #000;
+  background-color: rgb(2, 48, 33);
+}
+
+.menu-card h3 {
+  margin-bottom: 10px;
+}
+
+.menu-card.chicken {
+  background-color: #ffd700;
+}
+
+.menu-card.beef {
+  background-color: #ff6347;
+}
+
+.menu-card.sushi {
+  background-color: #9fa737;
+}
